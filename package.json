@@ -1,0 +1,15 @@
+{
+  "name": "loopback-connector-elasticsearch",
+  "version": "1.0.0",
+  "description": "Simple Elasticsearch Plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/offlinehacker/loopback-connector-elasticsearch.git"
+  },
+  "author": "Jaka Hudoklin",
+  "license": "MIT",
+  "dependencies": {
+    "elasticsearch": "^2.4.0"
+  }
+}
