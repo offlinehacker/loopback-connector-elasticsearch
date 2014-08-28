@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-elasticsearch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple Elasticsearch Plugin",
   "main": "index.js",
   "repository": {
