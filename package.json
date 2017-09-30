@@ -10,6 +10,6 @@
   "author": "Jaka Hudoklin",
   "license": "MIT",
   "dependencies": {
-    "elasticsearch": "^2.4.0"
+    "elasticsearch": "^13.3.1"
   }
 }
